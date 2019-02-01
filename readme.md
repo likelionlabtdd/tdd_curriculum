@@ -1,7 +1,5 @@
 # Likelion Lab TDD Study
 
-## 필기자료
-[Google Drive - 추후 추가 예정]()
 
 ## 1. 연구 방법 및 계획
 
@@ -11,6 +9,7 @@
 3. Python with TDD 교재를 이용하여 매주 1~2챕터 정도를 돌아가며 실습 및 정리를 해오고 발표한다.
 [http://www.yes24.co.kr/24/goods/16886031](http://www.yes24.co.kr/24/goods/16886031)[https://www.obeythetestinggoat.com/book/part1.harry.html](https://www.obeythetestinggoat.com/book/part1.harry.html)
 4. 발표 내용을 녹화하여 유튜브에 올리고, 했던 코드는 Github에 커밋한다.
+
 
 ## 2. 주차별 스터디 계획
 
@@ -27,6 +26,11 @@
 | TDD with Python Chapter 11     | Mar 15, 2019         |        |
 
 
+## 3. 필기자료
+[1주차](https://drive.google.com/file/d/1B11y5YTWrPR8RpA8VQ26kfcJ3QQLygV2/view?usp=sharing)
+
+
 ## Reference
 [Obey the testing in goat](https://www.obeythetestinggoat.com/)
+
 [파이썬을 이용한 클린 코드를 위한 테스트 주도 개발 책(교보문고)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994774916)
