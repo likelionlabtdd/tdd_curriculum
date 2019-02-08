@@ -15,9 +15,9 @@
 
 | ﻿주제                         | 날짜                 | 링크들 |
 |--------------------------------|----------------------|--------|
-| TDD 이해 및 Node.js로 맛보기   | Jan 25, 2019 2:00 PM |        |
+| TDD 이해 및 Node.js로 맛보기   | Jan 25, 2019 2:00 PM |    [Github](https://github.com/likelionlabtdd/tdd_with_nodejs)    |
 | TDD 기반 Node.js REST API 개발 | Feb 01, 2019 2:00 PM |        |
-| TDD with Python Chapter 1,2    | Feb 08, 2019         |        |
+| TDD with Python Chapter 1,2    | Feb 09, 2019 1:00 PM |    [Github](https://github.com/likelionlabtdd/tdd_with_django)    |
 | TDD with Python Chapter 3,4    | Feb 15, 2019         |        |
 | TDD with Python Chapter 5,6    | Feb 22, 2019         |        |
 | TDD with Python Chapter 7,8    | Feb 29, 2019         |        |
