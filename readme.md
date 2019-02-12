@@ -26,8 +26,9 @@
 | TDD with Python Chapter 11     | Mar 15, 2019         |        |
 
 
-## 3. 필기자료
-[1주차](https://drive.google.com/file/d/1B11y5YTWrPR8RpA8VQ26kfcJ3QQLygV2/view?usp=sharing)
+## 3. 자료
+[유튜브 재생목록](https://www.youtube.com/playlist?list=PLBlLtvR3PRpq0h6w1EqQuJsXjqgcknkaU) : 스터디 당일 녹화한 내용을 편집해 올리는 재생목록입니다.
+[1주차 필기자료](https://drive.google.com/file/d/1B11y5YTWrPR8RpA8VQ26kfcJ3QQLygV2/view?usp=sharing)
 
 
 ## Reference
